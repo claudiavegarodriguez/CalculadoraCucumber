@@ -13,3 +13,5 @@ El escenario multiplicación consta de dos variables double que se multiplican y
 El escenario división consta de dos variables double que se dividen. Pero en este caso si se divide por 0 un número, nuestro test salta con un FAIL, ya que el resultado sería infinito y en nuestra calculadora eso no es posible.
 
 Por último, el escenario factorial consta de una única variable de tipo entero que nos realiza la operación de factorial y nos la muestra.
+
+(El código se encuentra en la rama master).
